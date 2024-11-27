@@ -1,10 +1,12 @@
 
-.heading {
+.main {
 	width: 200px;
 	background-color: purple;
 	border-left: solid green;
 	border-width: 5px;
 	padding: 10px;
+}
+.heading {
 	font-size: 20px;
 	color: white;
 	text-decoration: underline;
